@@ -1,0 +1,20 @@
+body {
+	color: #404e67;
+	background: #f5f7fa;
+	font-family: 'Open Sans', sans-serif;
+}
+
+table.table {
+	table-layout: fixed;
+}
+.container {
+	width: 100%;
+	padding-right: 5px;
+	padding-left: 5px;
+	margin-right: auto;
+	margin-left: 200px;
+}
+th {
+	background-color: #2b3033;
+	color: white;
+}
